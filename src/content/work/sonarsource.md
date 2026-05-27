@@ -1,8 +1,8 @@
 ---
 title: Onboarding Specialist — SonarSource
 publishDate: 2025-11-01 00:00:00
-img: "@assets/stock-1.jpg"
-img_alt: Abstract gradient background
+img: "@assets/sonarsource.jpg"
+img_alt: "SonarQube Server and SonarQube Cloud logos overlaid on a code security shield graphic"
 description: |
   Leading onboarding and adoption of SonarQube Cloud and Server for
   enterprise accounts, architecting implementations and driving renewals.
