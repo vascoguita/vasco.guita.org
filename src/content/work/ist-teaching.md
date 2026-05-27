@@ -1,7 +1,7 @@
 ---
 title: Teaching Assistant — IST, Universidade de Lisboa
 publishDate: 2019-02-01 00:00:00
-img: /assets/stock-4.jpg
+img: "@assets/stock-4.jpg"
 img_alt: Abstract gradient background
 description: |
   Lectured Network and Computer Security lab classes for B.Sc. and M.Sc.

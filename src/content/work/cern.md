@@ -1,8 +1,8 @@
 ---
 title: Software Engineer — CERN
 publishDate: 2021-10-01 00:00:00
-img: /assets/stock-2.jpg
-img_alt: Abstract gradient background
+img: "@assets/cern.jpg"
+img_alt: The CMS detector at CERN (© CERN, CC BY 4.0)
 description: |
   Owned automation, infrastructure, and observability programs spanning FPGA
   test labs, large-scale storage services, and CERN's Open Hardware Repository.
