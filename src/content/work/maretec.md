@@ -2,7 +2,7 @@
 title: Software Engineer — MARETEC
 publishDate: 2021-02-01 00:00:00
 img: "@assets/maretec.jpg"
-img_alt: "MOHID water velocity map showing vector fields over a coastline"
+img_alt: "3D bathymetric map showing underwater terrain and a deep oceanic trench"
 description: |
   Developed tools for maritime applications, focusing on bathymetry
   visualization with Python and Qt.
