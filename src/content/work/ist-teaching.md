@@ -1,8 +1,8 @@
 ---
 title: Teaching Assistant — IST, Universidade de Lisboa
 publishDate: 2019-02-01 00:00:00
-img: "@assets/stock-4.jpg"
-img_alt: Abstract gradient background
+img: "@assets/ist-alameda.jpg"
+img_alt: "Instituto Superior Técnico Alameda campus at sunset"
 description: |
   Lectured Network and Computer Security lab classes for B.Sc. and M.Sc.
   students. Recognized with the Excellence in Teaching Award.
